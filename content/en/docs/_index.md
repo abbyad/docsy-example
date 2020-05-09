@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "Community Health Toolkit"
 linkTitle: "Documentation"
 weight: 20
 menu:
@@ -9,16 +9,12 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+The Community Health Toolkit is an open source technology for a new model of healthcare that reaches everyone. We envision a world where primary health care is equitable, accessible, and delivered by people who are trusted in their communities. [Find out more here](../about)
 {{% /pageinfo %}}
 
+The Community Health Toolkit (CHT) is a project by a group of leading organizations who have come together to support the development of digital health initiatives in the hardest-to-reach areas. 
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+The CHT provides you with resources to design, build, deploy, and monitor digital tools for community health. It includes open source software frameworks and applications, guides to help design and use them, and a community forum for collaboration and support.  Together, we envision a world where healthcare is of the highest attainable quality, equitable, accessible, and delivered by the people who are trusted most in their communities.  
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
-
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
+With more than 24,000 health workers using these tools to support a million home visits every month, the CHT is the most full-featured, mature, and widely-used open source software toolkit designed specifically for advanced community health systems. 
 
