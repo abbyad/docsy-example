@@ -1,6 +1,6 @@
 ---
-title: "Building Apps"
-linkTitle: "Building Apps"
+title: "CHT Applications"
+linkTitle: "CHT Applications"
 weight: 2
 date: 2017-01-05
 description: >
