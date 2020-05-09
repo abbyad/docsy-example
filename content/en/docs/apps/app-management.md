@@ -2,14 +2,13 @@
 date: 2016-04-09T16:50:16+02:00
 title: App Management
 weight: 9
+description: >
+  An interface for non-technical administrative users to manage users and settings
 ---
-<!-- ## App Management -->
 
-## Overview
+App Management is an interface for non-technical administrative users. With it they can manage users and make minor changes to the app, such as setting the SMS gateway phone number, and changing the default language for the app.
 
-The Admin Console is an interface for non-technical administrative users. With it they can manage users and make minor changes to the app, such as setting the SMS gateway phone number, and changing the default language for the app.
-
-The Admin Console is a desktop-only interface meant for users with a reliable internet connection.
+The App Management pages are a desktop-only interface meant for users with a reliable internet connection.
 
 ## Page Tabs
 

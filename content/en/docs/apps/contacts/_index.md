@@ -8,8 +8,6 @@ description: >
 <!-- ## Contacts: Person and Family Profiles -->
 <!-- TODO Refine screenshots, and add desktop view. -->
 
-## Overview
-
 “People” is the generic name we use for individuals in the app. They can be patients, family members, nurses or health workers. Anyone with a profile in the app is a person.
 
 “Places” is the generic name that represents a level in the hierarchy. “People” belong to “places” and “places” belong to other higher level “places” in the hierarchy.
@@ -56,9 +54,9 @@ Beneath that, you will find tasks for this person or place. At the very bottom i
 
 From profiles, users can edit contact information, take actions, and, if viewing a place profile, add new people and assign a primary contact person. If a place is not at the bottom of the hierarchy, a user can add new places to the level below this.
 
-{{% alert title="Configuring Contact Profiles" %}}
+{{% alert title="Note" %}}
 
-A contact's profile page is defined by the [Fields](), [Cards](), and [Context]().
+A contact's profile page is defined by the [Fields](contact-summary), [Cards](condition-cards), and [Context](care-guides).
 
 To update the Contact profiles for an app, changes must be compiled into `app-settings`, then uploaded.
 
@@ -68,7 +66,7 @@ Eg `medic-conf --local compile-app-settings backup-app-settings upload-app-setti
 ### Fields
 The top card on all profiles contains general information for the contact. All the fields shown in this summary card are configurable.
 
-[Configuring Contact Summary](contact-summary)
+[Defining Contact Summary](contact-summary)
 
 ### Condition Cards
 
@@ -88,7 +86,7 @@ Configurable elements include:
 - Icon for the field, if desired
 - Conditions under which to display
 
-[Configuring Condition Cards](condition-cards)
+[Defining Condition Cards](condition-cards)
 
 ### Care Guides
 <!-- todo: Resolve Care Guides vs Actions -->
@@ -101,4 +99,4 @@ You’ll see different forms here depending on which person or place you’re vi
 
 Health workers can use these Care Guides at any time. If the app has scheduled a care visit or follow up, it will be listed under “Tasks.” 
 
-[Configuring Care Guides](care-guides)
+[Defining Care Guides](care-guides)
